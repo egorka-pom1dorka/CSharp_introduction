@@ -9,34 +9,40 @@ namespace QuickSort
     public class Sorting
     {
 
-        public static void QuickSort(int[] arr, int start, int end)
+        public static void QuickSort(int[] array)
         {
-            if (start < 0 || end > arr.Length - 1)
+            if (array == null)
             {
-                throw new OutOfArrayException("Given indexes are out of array");
+                throw new ArgumentNullException("Argument must be array of integers");
             }
 
+            QuickSort(array, 0, array.Length - 1);
+        }
+
+        private static void QuickSort(int[] array, int start, int end)
+        {
             if (start < end)
             {
-                int pivot = Partition(arr, start, end);
-                QuickSort(arr, start, pivot - 1);
-                QuickSort(arr, pivot + 1, end);
+                int pivot = Partition(array, start, end);
+                QuickSort(array, start, pivot - 1);
+                QuickSort(array, pivot + 1, end);
             }
         }
 
-        private static int Partition(int[] arr, int start, int end)
+        private static int Partition(int[] array, int start, int end)
         {
             int marker = start;
             int pivot = end;
             for (int i = start; i < end; i++)
             {
-                if (arr[i] < arr[pivot])
+                if (array[i] < array[pivot])
                 {
-                    Swap(ref arr[i], ref arr[marker]);
+                    Swap(ref array[i], ref array[marker]);
                     marker++;
                 }
             }
-            Swap(ref arr[marker], ref arr[pivot]);
+
+            Swap(ref array[marker], ref array[pivot]);
             return marker;
         }
 
