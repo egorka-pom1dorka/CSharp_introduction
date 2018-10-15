@@ -1,0 +1,8 @@
+D:\C#\Lesson1\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\C#\Lesson1\Logic\bin\Debug\Logic.dll
+D:\C#\Lesson1\Logic\bin\Debug\Logic.pdb
+D:\C#\Lesson1\Logic\obj\Debug\Logic.dll
+D:\C#\Lesson1\Logic\obj\Debug\Logic.pdb
+D:\C#\Lesson1\Logic\bin\Debug\NLog.dll
+D:\C#\Lesson1\Logic\bin\Debug\NLog.xml
+D:\C#\Lesson1\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache

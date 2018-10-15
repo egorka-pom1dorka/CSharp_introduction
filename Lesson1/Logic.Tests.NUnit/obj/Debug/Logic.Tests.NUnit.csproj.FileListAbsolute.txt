@@ -1,0 +1,8 @@
+D:\C#\Lesson1\Logic.Tests.NUnit\obj\Debug\Logic.Tests.NUnit.csproj.CoreCompileInputs.cache
+D:\C#\Lesson1\Logic.Tests.NUnit\bin\Debug\Logic.Tests.NUnit.dll
+D:\C#\Lesson1\Logic.Tests.NUnit\bin\Debug\Logic.Tests.NUnit.pdb
+D:\C#\Lesson1\Logic.Tests.NUnit\bin\Debug\nunit.framework.dll
+D:\C#\Lesson1\Logic.Tests.NUnit\bin\Debug\nunit.framework.pdb
+D:\C#\Lesson1\Logic.Tests.NUnit\bin\Debug\nunit.framework.xml
+D:\C#\Lesson1\Logic.Tests.NUnit\obj\Debug\Logic.Tests.NUnit.dll
+D:\C#\Lesson1\Logic.Tests.NUnit\obj\Debug\Logic.Tests.NUnit.pdb

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -49,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ArrayWorker\ArrayExtensions.csproj">
+      <Project>{ecafbabd-c21e-4647-9902-6a1ecaef7f77}</Project>
+      <Name>ArrayExtensions</Name>
+    </ProjectReference>
     <ProjectReference Include="..\QuickSort\Sorting.csproj">
       <Project>{ff6aaeb0-cf6d-4efb-aeb2-99bd1e7a77a5}</Project>
       <Name>Sorting</Name>

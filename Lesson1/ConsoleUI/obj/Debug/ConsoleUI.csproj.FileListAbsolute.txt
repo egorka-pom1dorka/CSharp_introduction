@@ -1,0 +1,9 @@
+D:\C#\Lesson1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\C#\Lesson1\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\C#\Lesson1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\C#\Lesson1\ConsoleUI\bin\Debug\Logic.dll
+D:\C#\Lesson1\ConsoleUI\bin\Debug\Logic.pdb
+D:\C#\Lesson1\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\C#\Lesson1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\C#\Lesson1\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\C#\Lesson1\ConsoleUI\obj\Debug\ConsoleUI.pdb
